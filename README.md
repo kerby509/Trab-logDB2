@@ -4,7 +4,7 @@
 <hr>
 Implementado por: Kerby Lovince & Daniel Pierrelus
 <hr>
-# Requisito
+*Requisito*<br>
 Python 3.7 <br>
 install psycopg2
 
