@@ -5,6 +5,6 @@
 Implementado por: Kerby Lovince & Daniel Pierrelus
 <hr>
 # Requisito
-Python 3.7
+Python 3.7 <br>
 install psycopg2
 
